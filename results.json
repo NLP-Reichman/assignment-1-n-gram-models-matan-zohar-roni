@@ -1,27 +1,29 @@
 {
-  "test_link": "NameError(\"name 'NOTEBOOK_LINK' is not defined\")\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_72479/2077445876.py\", line 47, in <cell line: 0>\n    cur_res = test()\n              ^^^^^^\n  File \"/tmp/ipykernel_72479/2077445876.py\", line 6, in test_link\n    'link': NOTEBOOK_LINK\n            ^^^^^^^^^^^^^\nNameError: name 'NOTEBOOK_LINK' is not defined\n",
+  "test_link": {
+    "link": "https://colab.research.google.com/drive/1XqJswaNf8WLE9j7S4xQ4LhMyCKstH6rn#scrollTo=CpCm24-RrpuA"
+  },
   "test_preprocess": {
     "vocab_length": 1802
   },
   "test_build_lm": {
-    "english_2_gram_length": 747,
-    "english_3_gram_length": 8238,
-    "french_3_gram_length": 8285,
-    "spanish_3_gram_length": 8468
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_on_en": 27.34,
-    "en_on_fr": 59.45,
-    "en_on_tl": 71.88,
-    "en_on_nl": 62.39
+    "en_on_en": 26.73,
+    "en_on_fr": 20.68,
+    "en_on_tl": 32.51,
+    "en_on_nl": 25.11
   },
   "test_generate": {
-    "english_2_gram": "I amcoullewily2\ud83d\udc76\ud0c0\u02d6",
-    "english_3_gram": "I am\ud83d\ude88",
-    "english_4_gram": "I Love\ud83d\udc3f",
-    "spanish_2_gram": "Soy\u3145",
-    "spanish_3_gram": "Soy\uce58",
-    "french_2_gram": "Je suis:/\u00cd",
-    "french_3_gram": "Je suis://\u0131"
+    "english_2_gram": "I amoulpe\u2026",
+    "english_3_gram": "I amit",
+    "english_4_gram": "I Love Fakeing: You make b",
+    "spanish_2_gram": "Soyell\u00eds\u00edcipegucosie eL",
+    "spanish_3_gram": "Soye uscreakadador que\u00f1",
+    "french_2_gram": "Je suis:/kgny qGex qui @L T",
+    "french_3_gram": "Je suis tubeet ARadAerry @h"
   }
 }
