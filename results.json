@@ -1,0 +1,27 @@
+{
+  "test_link": "NameError(\"name 'NOTEBOOK_LINK' is not defined\")\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_72479/2077445876.py\", line 47, in <cell line: 0>\n    cur_res = test()\n              ^^^^^^\n  File \"/tmp/ipykernel_72479/2077445876.py\", line 6, in test_link\n    'link': NOTEBOOK_LINK\n            ^^^^^^^^^^^^^\nNameError: name 'NOTEBOOK_LINK' is not defined\n",
+  "test_preprocess": {
+    "vocab_length": 1802
+  },
+  "test_build_lm": {
+    "english_2_gram_length": 747,
+    "english_3_gram_length": 8238,
+    "french_3_gram_length": 8285,
+    "spanish_3_gram_length": 8468
+  },
+  "test_eval": {
+    "en_on_en": 27.34,
+    "en_on_fr": 59.45,
+    "en_on_tl": 71.88,
+    "en_on_nl": 62.39
+  },
+  "test_generate": {
+    "english_2_gram": "I amcoullewily2\ud83d\udc76\ud0c0\u02d6",
+    "english_3_gram": "I am\ud83d\ude88",
+    "english_4_gram": "I Love\ud83d\udc3f",
+    "spanish_2_gram": "Soy\u3145",
+    "spanish_3_gram": "Soy\uce58",
+    "french_2_gram": "Je suis:/\u00cd",
+    "french_3_gram": "Je suis://\u0131"
+  }
+}
