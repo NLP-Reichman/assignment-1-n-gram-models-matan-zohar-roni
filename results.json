@@ -3,7 +3,7 @@
     "link": "https://colab.research.google.com/drive/1XqJswaNf8WLE9j7S4xQ4LhMyCKstH6rn#scrollTo=CpCm24-RrpuA"
   },
   "test_preprocess": {
-    "vocab_length": 1802
+    "vocab_length": 1804
   },
   "test_build_lm": {
     "english_2_gram_length": 748,
@@ -12,10 +12,10 @@
     "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_on_en": 26.73,
-    "en_on_fr": 46.08,
-    "en_on_tl": 66.92,
-    "en_on_nl": 58.51
+    "en_on_en": 26.75,
+    "en_on_fr": 46.11,
+    "en_on_tl": 66.97,
+    "en_on_nl": 58.55
   },
   "test_generate": {
     "english_2_gram": "I amoulpeginShmee bie ae",
