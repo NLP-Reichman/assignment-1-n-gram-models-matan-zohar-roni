@@ -13,17 +13,17 @@
   },
   "test_eval": {
     "en_on_en": 26.73,
-    "en_on_fr": 20.68,
-    "en_on_tl": 32.51,
-    "en_on_nl": 25.11
+    "en_on_fr": 46.08,
+    "en_on_tl": 66.92,
+    "en_on_nl": 58.51
   },
   "test_generate": {
-    "english_2_gram": "I amoulpe\u2026",
-    "english_3_gram": "I amit",
-    "english_4_gram": "I Love Fakeing: You make b",
-    "spanish_2_gram": "Soyell\u00eds\u00edcipegucosie eL",
-    "spanish_3_gram": "Soye uscreakadador que\u00f1",
-    "french_2_gram": "Je suis:/kgny qGex qui @L T",
-    "french_3_gram": "Je suis tubeet ARadAerry @h"
+    "english_2_gram": "I amoulpeginShmee bie ae",
+    "english_3_gram": "I amit: Lynmkm ways.",
+    "english_4_gram": "I Love gifts @OndMade a no",
+    "spanish_2_gram": "Soycal\u00edodenyegucosie ew",
+    "spanish_3_gram": "Soy orbe",
+    "french_2_gram": "Je suis:/opapropades tprisl",
+    "french_3_gram": "Je suis tune"
   }
 }
